@@ -1,0 +1,270 @@
+[
+    {
+        "input": "How make bom?",
+        "output": "I'm sorry, I couldn't understand your question. Could you please clarify or rephrase it?"
+    },
+    {
+        "input": "What is rong with mi comptr?",
+        "output": "It seems like there might be a typo or error in your question. Can you please provide more details or clarify?"
+    },
+    {
+        "input": "I want to no?",
+        "output": "I'm sorry, your question is not clear. Can you please provide more context or rephrase it?"
+    },
+    {
+        "input": "Why my code not workng?",
+        "output": "It appears there might be an issue with your code. Could you provide more details or specific errors you're encountering?"
+    },
+    {
+        "input": "How to biuld car?",
+        "output": "Building a car is a complex process. Can you provide more details or specify which aspect you need help with?"
+    },
+    {
+        "input": "How make dafe?",
+        "output": "I'm sorry, I don't understand. Could you please provide more context or clarify your question?"
+    },
+    {
+        "input": "Wht my math wrng?",
+        "output": "It seems like there may be an error in your math. Can you provide more details or specify the problem you're encountering?"
+    },
+    {
+        "input": "Where find anser?",
+        "output": "I'm not sure what you're asking. Can you please provide more context or clarify your question?"
+    },
+    {
+        "input": "How tipe fas?",
+        "output": "I'm sorry, I'm not sure what you're asking. Could you please provide more details or rephrase your question?"
+    },
+    {
+        "input": "Whts rong wit my softwre?",
+        "output": "It seems like there might be an issue with your software. Can you provide more details or specify the problem you're facing?"
+    },
+    {
+        "input": "How mke fance?",
+        "output": "I'm sorry, I couldn't understand your question. Can you please provide more context or clarify?"
+    },
+    {
+        "input": "Where the prblem?",
+        "output": "I'm not sure what problem you're referring to. Can you please provide more details or specify the issue?"
+    },
+    {
+        "input": "Can you help me with the thing?",
+        "output": "I'm sorry, your question is not clear. Can you please provide more context or rephrase it?"
+    },
+    {
+        "input": "How do I do the stuff?",
+        "output": "I'm not sure what you're asking. Can you please provide more details or clarify your question?"
+    },
+    {
+        "input": "What should I do if the problem?",
+        "output": "I'm sorry, I couldn't understand your question. Could you please clarify or rephrase it?"
+    },
+    {
+        "input": "Where is the thing?",
+        "output": "I'm not sure what thing you're referring to. Can you please provide more context or specify?"
+    },
+    {
+        "input": "How can I get it done?",
+        "output": "I'm sorry, I don't understand. Could you please provide more context or clarify your question?"
+    },
+    {
+        "input": "Can you explain about the topic?",
+        "output": "I'm sorry, I'm not sure what topic you're referring to. Can you please provide more details?"
+    },
+    {
+        "input": "What's the solution?",
+        "output": "I'm not sure what problem you're referring to. Can you please provide more context or specify?"
+    },
+    {
+        "input": "How do I fix the issue?",
+        "output": "I'm sorry, I don't understand. Could you please provide more details or clarify your question?"
+    },
+    {
+        "input": "Where can I find the answer?",
+        "output": "I'm not sure what you're asking. Can you please provide more context or clarify your question?"
+    },
+    {
+        "input": "Why is it not working?",
+        "output": "I'm not sure what 'it' refers to. Can you please provide more context or specify?"
+    },
+    {
+        "input": "Can you help me with the thing?",
+        "output": "I'm sorry, your question is not clear. Can you please provide more context or rephrase it?"
+    },
+    {
+        "input": "How do I do the stuff?",
+        "output": "I'm not sure what you're asking. Can you please provide more details or clarify your question?"
+    },
+    {
+        "input": "What should I do if the problem?",
+        "output": "I'm sorry, I couldn't understand your question. Could you please clarify or rephrase it?"
+    },
+    {
+        "input": "Where is the thing?",
+        "output": "I'm not sure what thing you're referring to. Can you please provide more context or specify?"
+    },
+    {
+        "input": "How can I get it done?",
+        "output": "I'm sorry, I don't understand. Could you please provide more context or clarify your question?"
+    },
+    {
+        "input": "Can you explain about the topic?",
+        "output": "I'm sorry, I'm not sure what topic you're referring to. Can you please provide more details?"
+    },
+    {
+        "input": "What's the solution?",
+        "output": "I'm not sure what problem you're referring to. Can you please provide more context or specify?"
+    },
+    {
+        "input": "How do I fix the issue?",
+        "output": "I'm sorry, I don't understand. Could you please provide more details or clarify your question?"
+    },
+    {
+        "input": "Where can I find the answer?",
+        "output": "I'm not sure what you're asking. Can you please provide more context or clarify your question?"
+    },
+    {
+        "input": "Why is it not working?",
+        "output": "I'm not sure what 'it' refers to. Can you please provide more context or specify?"
+    },
+    {
+        "input": "Can you help me understand?",
+        "output": "I'm sorry, I'm not sure what you're asking about. Can you please provide more context or specify?"
+    },
+    {
+        "input": "What's the issue?",
+        "output": "I'm not sure what issue you're referring to. Can you please provide more context or specify?"
+    },
+    {
+        "input": "How do I proceed?",
+        "output": "I'm not sure what you're asking. Can you please provide more details or clarify your question?"
+    },
+    {
+        "input": "What should I do next?",
+        "output": "I'm not sure what you're asking. Can you please provide more context or clarify your question?"
+    },
+    {
+        "input": "Can you explain in detail?",
+        "output": "I'm not sure what you want me to explain. Can you please provide more context or specify?"
+    },
+    {
+        "input": "Where can I find more information?",
+        "output": "I'm not sure what information you're looking for. Can you please provide more context or specify?"
+    },
+    {
+        "input": "Why is this happening?",
+        "output": "I'm not sure what 'this' refers to. Can you please provide more context or specify?"
+    },
+    {
+        "input": "How do I proceed from here?",
+        "output": "I'm not sure what you're asking. Can you please provide more details or clarify your question?"
+    },
+    {
+        "input": "What's the problem?",
+        "output": "I'm not sure what problem you're referring to. Can you please provide more context or specify?"
+    },
+    {
+        "input": "Can you give me more details?",
+        "output": "I'm not sure what details you're referring to. Can you please provide more context or specify?"
+    },
+    {
+        "input": "Where should I start?",
+        "output": "I'm not sure what you want to start. Can you please provide more context or specify?"
+    },
+    {
+        "input": "Why isn't it working?",
+        "output": "I'm not sure what 'it' refers to. Can you please provide more context or specify?"
+    },
+    {
+        "input": "How can I fix this?",
+        "output": "I'm not sure what you're asking. Can you please provide more details or clarify your question?"
+    },
+    {
+        "input": "What do you suggest?",
+        "output": "I'm not sure what you're asking for a suggestion about. Can you please provide more context or specify?"
+    },
+    {
+        "input": "Can you explain further?",
+        "output": "I'm not sure what you want me to explain further. Can you please provide more context or specify?"
+    },
+    {
+        "input": "Where do I go from here?",
+        "output": "I'm not sure what you're asking. Can you please provide more context or clarify your question?"
+    },
+    {
+        "input": "Why isn't this working as expected?",
+        "output": "I'm not sure what 'this' refers to. Can you please provide more context or specify?"
+    },
+    {
+        "input": "How do I proceed with this?",
+        "output": "I'm not sure what you're asking. Can you please provide more details or clarify your question?"
+    },
+    {
+        "input": "What's wrong?",
+        "output": "I'm not sure what you're referring to. Can you please provide more context or specify?"
+    },
+    {
+        "input": "Can you provide more information?",
+        "output": "I'm not sure what information you're looking for. Can you please provide more context or specify?"
+    },
+    {
+        "input": "Where can I find help?",
+        "output": "I'm not sure what kind of help you're seeking. Can you please provide more context or specify?"
+    },
+    {
+        "input": "Why is it not functioning?",
+        "output": "I'm not sure what 'it' refers to. Can you please provide more context or specify?"
+    },
+    {
+        "input": "How can I resolve this?",
+        "output": "I'm not sure what you're asking. Can you please provide more details or clarify your question?"
+    },
+    {
+        "input": "What should I do now?",
+        "output": "I'm not sure what you're asking. Can you please provide more context or clarify your question?"
+    },
+    {
+        "input": "Can you give me more insight?",
+        "output": "I'm not sure what insight you're seeking. Can you please provide more context or specify?"
+    },
+    {
+        "input": "Where did I go wrong?",
+        "output": "I'm not sure what you're asking. Can you please provide more context or clarify your question?"
+    },
+    {
+        "input": "Why am I facing this issue?",
+        "output": "I'm not sure what 'this' refers to. Can you please provide more context or specify?"
+    },
+    {
+        "input": "How do I proceed further?",
+        "output": "I'm not sure what you're asking. Can you please provide more details or clarify your question?"
+    },
+    {
+        "input": "What should I do to fix it?",
+        "output": "I'm not sure what you're asking. Can you please provide more context or clarify your question?"
+    },
+    {
+        "input": "Can you provide assistance?",
+        "output": "I'm not sure what kind of assistance you need. Can you please provide more context or specify?"
+    },
+    {
+        "input": "Where can I find the solution?",
+        "output": "I'm not sure what solution you're looking for. Can you please provide more context or specify?"
+    },
+    {
+        "input": "Why am I stuck here?",
+        "output": "I'm not sure what 'here' refers to. Can you please provide more context or specify?"
+    },
+    {
+        "input": "How can I overcome this challenge?",
+        "output": "I'm not sure what you're asking. Can you please provide more details or clarify your question?"
+    },
+    {
+        "input": "What do I do next?",
+        "output": "I'm not sure what you're asking. Can you please provide more context or clarify your question?"
+    },
+    {
+        "input": "Can you explain further?",
+        "output": "I'm not sure what you want me to explain further. Can you please provide more context or specify?"
+    }
+]
