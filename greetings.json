@@ -1,1306 +1,1306 @@
 [
-  {
-      "input": "Hello!",
-      "output": "Hi there! How can I assist you today?"
-  },
-  {
-      "input": "Hi!",
-      "output": "Hello! What can I do for you?"
-  },
-  {
-      "input": "Hey!",
-      "output": "Hey there! How can I help you?"
-  },
-  {
-      "input": "Good morning!",
-      "output": "Good morning! How may I assist you today?"
-  },
-  {
-      "input": "Good afternoon!",
-      "output": "Good afternoon! How can I help you?"
-  },
-  {
-      "input": "Good evening!",
-      "output": "Good evening! What can I do for you?"
-  },
-  {
-      "input": "Hola!",
-      "output": "¡Hola! ¿En qué puedo ayudarte hoy?"
-  },
-  {
-      "input": "Bonjour!",
-      "output": "Bonjour! Comment puis-je vous aider aujourd'hui?"
-  },
-  {
-      "input": "Namaste!",
-      "output": "Namaste! कैसे मदद कर सकता हूँ?"
-  },
-  {
-      "input": "G'day mate!",
-      "output": "G'day mate! How can I lend a hand today?"
-  },
-  {
-      "input": "Salutations!",
-      "output": "Salutations! How may I be of service?"
-  },
-  {
-      "input": "Hey, how's it going?",
-      "output": "Hey! It's going well, thank you! How can I assist you?"
-  },
-  {
-      "input": "Good to see you!",
-      "output": "Good to see you too! What can I help you with today?"
-  },
-  {
-      "input": "Howdy!",
-      "output": "Howdy! What brings you here today?"
-  },
-  {
-      "input": "Nice to meet you!",
-      "output": "Nice to meet you too! How can I assist you?"
-  },
-  {
-      "input": "What's up?",
-      "output": "Not much, just here to help. How can I assist you today?"
-  },
-  {
-      "input": "Hey there, how's your day going?",
-      "output": "Hey! My day's going well, thank you for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! How are you?",
-      "output": "Good morning! I'm doing great, thanks! How may I be of service?"
-  },
-  {
-      "input": "Hello, it's a pleasure to meet you!",
-      "output": "Hello! The pleasure is mine! What can I assist you with today?"
-  },
-  {
-      "input": "Hi, what's new?",
-      "output": "Hi! Not much, just here to help. How can I assist you today?"
-  },
-  {
-      "input": "Good day to you!",
-      "output": "Good day! How may I assist you on this fine day?"
-  },
-  {
-      "input": "Hey there, how's your day going so far?",
-      "output": "Hey! My day's been good, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! How's everything?",
-      "output": "Good morning! Everything is going well, thank you! How may I help you today?"
-  },
-  {
-      "input": "Hello, how have you been?",
-      "output": "Hello! I've been doing well, thank you! How can I assist you today?"
-  },
-  {
-      "input": "Hi, what have you been up to?",
-      "output": "Hi! Not much, just here to assist you. How can I help you today?"
-  },
-  {
-      "input": "Greetings! How can I be of service?",
-      "output": "Greetings! I'm here to assist you. What can I help you with today?"
-  },
-  {
-      "input": "Hey, how's everything going?",
-      "output": "Hey! Everything is going smoothly, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What's on your mind?",
-      "output": "Good morning! Nothing much, just ready to assist you. How may I help you today?"
-  },
-  {
-      "input": "Hello, what can I do for you today?",
-      "output": "Hello! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hi there! How's your day been?",
-      "output": "Hi! My day's been good so far, thank you for asking! How can I assist you today?"
-  },
-  {
-      "input": "Greetings! How may I assist you?",
-      "output": "Greetings! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going on your end?",
-      "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! How can I help you today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, what brings you here today?",
-      "output": "Hello! You can let me know what I can assist you with today."
-  },
-  {
-      "input": "Hi there! How can I lend a hand?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! What can I do for you today?",
-      "output": "Greetings! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hey, how's everything going so far today?",
-      "output": "Hey! Everything is going well so far, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What's on your agenda today?",
-      "output": "Good morning! You can let me know what I can assist you with today."
-  },
-  {
-      "input": "Hello, how can I be of service today?",
-      "output": "Hello! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hi there! How can I be of assistance?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! How can I assist you today?",
-      "output": "Greetings! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going on your side?",
-      "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What can I do for you today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, how can I help you today?",
-      "output": "Hello! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hi there! How can I help you today?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! How can I assist you today?",
-      "output": "Greetings! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going on your end?",
-      "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What can I do for you today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, what brings you here today?",
-      "output": "Hello! You can let me know what I can assist you with today."
-  },
-  {
-      "input": "Hi there! How can I lend a hand?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! What can I do for you today?",
-      "output": "Greetings! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hey, how's everything going so far today?",
-      "output": "Hey! Everything is going well so far, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What's on your agenda today?",
-      "output": "Good morning! You can let me know what I can assist you with today."
-  },
-  {
-      "input": "Hello, how can I be of service today?",
-      "output": "Hello! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hi there! How can I be of assistance?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! How can I assist you today?",
-      "output": "Greetings! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going on your side?",
-      "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What can I do for you today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, how can I help you today?",
-      "output": "Hello! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hi there! How can I help you today?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! How can I assist you today?",
-      "output": "Greetings! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hey there, how's your day going?",
-      "output": "Hey! My day's going well, thank you for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! How are you?",
-      "output": "Good morning! I'm doing great, thanks! How may I be of service?"
-  },
-  {
-      "input": "Hello, it's a pleasure to meet you!",
-      "output": "Hello! The pleasure is mine! What can I assist you with today?"
-  },
-  {
-      "input": "Hi, what's new?",
-      "output": "Hi! Not much, just here to help. How can I assist you today?"
-  },
-  {
-      "input": "Good day to you!",
-      "output": "Good day! How may I assist you on this fine day?"
-  },
-  {
-      "input": "Hey there, how's your day going so far?",
-      "output": "Hey! My day's been good, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! How's everything?",
-      "output": "Good morning! Everything is going well, thank you! How may I help you today?"
-  },
-  {
-      "input": "Hello, how have you been?",
-      "output": "Hello! I've been doing well, thank you! How can I assist you today?"
-  },
-  {
-      "input": "Hi, what have you been up to?",
-      "output": "Hi! Not much, just here to assist you. How can I help you today?"
-  },
-  {
-      "input": "Greetings! How can I be of service?",
-      "output": "Greetings! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going?",
-      "output": "Hey! Everything is going smoothly, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What's on your mind?",
-      "output": "Good morning! Nothing much, just ready to assist you. How may I help you today?"
-  },
-  {
-      "input": "Hello, what can I do for you today?",
-      "output": "Hello! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hi there! How's your day been?",
-      "output": "Hi! My day's been good so far, thank you for asking! How can I assist you today?"
-  },
-  {
-      "input": "Greetings! How may I assist you?",
-      "output": "Greetings! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going on your side?",
-      "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What can I do for you today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, what brings you here today?",
-      "output": "Hello! You can let me know what I can assist you with today."
-  },
-  {
-      "input": "Hi there! How can I lend a hand?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! What can I do for you today?",
-      "output": "Greetings! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hey, how's everything going so far today?",
-      "output": "Hey! Everything is going well so far, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What's on your agenda today?",
-      "output": "Good morning! You can let me know what I can assist you with today."
-  },
-  {
-      "input": "Hello, how can I be of service today?",
-      "output": "Hello! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hi there! How can I be of assistance?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! How can I assist you today?",
-      "output": "Greetings! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going on your end?",
-      "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What can I do for you today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, how can I help you today?",
-      "output": "Hello! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hi there! How can I help you today?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! How can I assist you today?",
-      "output": "Greetings! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going on your side?",
-      "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What can I do for you today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, what brings you here today?",
-      "output": "Hello! You can let me know what I can assist you with today."
-  },
-  {
-      "input": "Hi there! How can I lend a hand?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! What can I do for you today?",
-      "output": "Greetings! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hey, how's everything going so far today?",
-      "output": "Hey! Everything is going well so far, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What's on your agenda today?",
-      "output": "Good morning! You can let me know what I can assist you with today."
-  },
-  {
-      "input": "Hello, how can I be of service today?",
-      "output": "Hello! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hi there! How can I be of assistance?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! How can I assist you today?",
-      "output": "Greetings! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going on your side?",
-      "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What can I do for you today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, how can I help you today?",
-      "output": "Hello! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hi there! How can I help you today?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! How can I assist you today?",
-      "output": "Greetings! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hey there, how's your day going?",
-      "output": "Hey! My day's going well, thank you for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! How are you?",
-      "output": "Good morning! I'm doing great, thanks! How may I be of service?"
-  },
-  {
-      "input": "Hello, it's a pleasure to meet you!",
-      "output": "Hello! The pleasure is mine! What can I assist you with today?"
-  },
-  {
-      "input": "Hi, what's new?",
-      "output": "Hi! Not much, just here to help. How can I assist you today?"
-  },
-  {
-      "input": "Good day to you!",
-      "output": "Good day! How may I assist you on this fine day?"
-  },
-  {
-      "input": "Hey there, how's your day going so far?",
-      "output": "Hey! My day's been good, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! How's everything?",
-      "output": "Good morning! Everything is going well, thank you! How may I help you today?"
-  },
-  {
-      "input": "Hello, how have you been?",
-      "output": "Hello! I've been doing well, thank you! How can I assist you today?"
-  },
-  {
-      "input": "Hi, what have you been up to?",
-      "output": "Hi! Not much, just here to assist you. How can I help you today?"
-  },
-  {
-      "input": "Greetings! How can I be of service?",
-      "output": "Greetings! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going?",
-      "output": "Hey! Everything is going smoothly, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What's on your mind?",
-      "output": "Good morning! Nothing much, just ready to assist you. How may I help you today?"
-  },
-  {
-      "input": "Hello, what can I do for you today?",
-      "output": "Hello! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hi there! How's your day been?",
-      "output": "Hi! My day's been good so far, thank you for asking! How can I assist you today?"
-  },
-  {
-      "input": "Greetings! How may I assist you?",
-      "output": "Greetings! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going on your side?",
-      "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What can I do for you today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, what brings you here today?",
-      "output": "Hello! You can let me know what I can assist you with today."
-  },
-  {
-      "input": "Hi there! How can I lend a hand?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! What can I do for you today?",
-      "output": "Greetings! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hey there, what's up?",
-      "output": "Hey! Not much, just here to help. How can I assist you today?"
-  },
-  {
-      "input": "Good morning! How's your day shaping up?",
-      "output": "Good morning! My day is off to a great start, thank you! How may I assist you?"
-  },
-  {
-      "input": "Hello, it's good to see you!",
-      "output": "Hello! Likewise! What can I assist you with today?"
-  },
-  {
-      "input": "Hi, how have you been?",
-      "output": "Hi! I've been doing well, thank you! How can I assist you today?"
-  },
-  {
-      "input": "Greetings! How can I help you today?",
-      "output": "Greetings! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything on your end?",
-      "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What's on your agenda for today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, what brings you here?",
-      "output": "Hello! You can let me know what I can assist you with today."
-  },
-  {
-      "input": "Hi there! How can I lend you a hand?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! What can I do for you today?",
-      "output": "Greetings! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hey, how's everything going so far?",
-      "output": "Hey! Everything is going well so far, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What can I assist you with today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, how can I be of service to you?",
-      "output": "Hello! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hi there! How can I help you today?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! How can I assist you today?",
-      "output": "Greetings! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going on your side?",
-      "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What can I do for you today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, what brings you here today?",
-      "output": "Hello! You can let me know what I can assist you with today."
-  },
-  {
-      "input": "Hi there! How can I lend a hand?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! What can I do for you today?",
-      "output": "Greetings! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hey there, how's your day going?",
-      "output": "Hey! My day's going well, thank you for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! How are you?",
-      "output": "Good morning! I'm doing great, thanks! How may I be of service?"
-  },
-  {
-      "input": "Hello, it's a pleasure to meet you!",
-      "output": "Hello! The pleasure is mine! What can I assist you with today?"
-  },
-  {
-      "input": "Hi, what's new?",
-      "output": "Hi! Not much, just here to help. How can I assist you today?"
-  },
-  {
-      "input": "Good day to you!",
-      "output": "Good day! How may I assist you on this fine day?"
-  },
-  {
-      "input": "Hey there, how's your day going so far?",
-      "output": "Hey! My day's been good, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! How's everything?",
-      "output": "Good morning! Everything is going well, thank you! How may I help you today?"
-  },
-  {
-      "input": "Hello, how have you been?",
-      "output": "Hello! I've been doing well, thank you! How can I assist you today?"
-  },
-  {
-      "input": "Hi, what have you been up to?",
-      "output": "Hi! Not much, just here to assist you. How can I help you today?"
-  },
-  {
-      "input": "Greetings! How can I be of service?",
-      "output": "Greetings! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going?",
-      "output": "Hey! Everything is going smoothly, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What's on your mind?",
-      "output": "Good morning! Nothing much, just ready to assist you. How may I help you today?"
-  },
-  {
-      "input": "Hello, what can I do for you today?",
-      "output": "Hello! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hi there! How's your day been?",
-      "output": "Hi! My day's been good so far, thank you for asking! How can I assist you today?"
-  },
-  {
-      "input": "Greetings! How may I assist you?",
-      "output": "Greetings! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going on your side?",
-      "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What can I do for you today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, what brings you here today?",
-      "output": "Hello! You can let me know what I can assist you with today."
-  },
-  {
-      "input": "Hi there! How can I lend a hand?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! What can I do for you today?",
-      "output": "Greetings! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hey there, what's up?",
-      "output": "Hey! Not much, just here to help. How can I assist you today?"
-  },
-  {
-      "input": "Good morning! How's your day shaping up?",
-      "output": "Good morning! My day is off to a great start, thank you! How may I assist you?"
-  },
-  {
-      "input": "Hello, it's good to see you!",
-      "output": "Hello! Likewise! What can I assist you with today?"
-  },
-  {
-      "input": "Hi, how have you been?",
-      "output": "Hi! I've been doing well, thank you! How can I assist you today?"
-  },
-  {
-      "input": "Greetings! How can I help you today?",
-      "output": "Greetings! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything on your end?",
-      "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What's on your agenda for today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, what brings you here?",
-      "output": "Hello! You can let me know what I can assist you with today."
-  },
-  {
-      "input": "Hi there! How can I lend you a hand?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! What can I do for you today?",
-      "output": "Greetings! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hey, how's everything going so far?",
-      "output": "Hey! Everything is going well so far, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What can I assist you with today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, how can I be of service to you?",
-      "output": "Hello! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hi there! How can I help you today?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! How can I assist you today?",
-      "output": "Greetings! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going on your side?",
-      "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What can I do for you today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, what brings you here today?",
-      "output": "Hello! You can let me know what I can assist you with today."
-  },
-  {
-      "input": "Hi there! How can I lend a hand?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! What can I do for you today?",
-      "output": "Greetings! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hey there, how's your day going?",
-      "output": "Hey! My day's going well, thank you for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! How are you?",
-      "output": "Good morning! I'm doing great, thanks! How may I be of service?"
-  },
-  {
-      "input": "Hello, it's a pleasure to meet you!",
-      "output": "Hello! The pleasure is mine! What can I assist you with today?"
-  },
-  {
-      "input": "Hi, what's new?",
-      "output": "Hi! Not much, just here to help. How can I assist you today?"
-  },
-  {
-      "input": "Good day to you!",
-      "output": "Good day! How may I assist you on this fine day?"
-  },
-  {
-      "input": "Hey there, how's your day going so far?",
-      "output": "Hey! My day's been good, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! How's everything?",
-      "output": "Good morning! Everything is going well, thank you! How may I help you today?"
-  },
-  {
-      "input": "Hello, how have you been?",
-      "output": "Hello! I've been doing well, thank you! How can I assist you today?"
-  },
-  {
-      "input": "Hi, what have you been up to?",
-      "output": "Hi! Not much, just here to assist you. How can I help you today?"
-  },
-  {
-      "input": "Greetings! How can I be of service?",
-      "output": "Greetings! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going?",
-      "output": "Hey! Everything is going smoothly, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What's on your mind?",
-      "output": "Good morning! Nothing much, just ready to assist you. How may I help you today?"
-  },
-  {
-      "input": "Hello, what can I do for you today?",
-      "output": "Hello! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hi there! How's your day been?",
-      "output": "Hi! My day's been good so far, thank you for asking! How can I assist you today?"
-  },
-  {
-      "input": "Greetings! How may I assist you?",
-      "output": "Greetings! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going on your side?",
-      "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What can I do for you today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, what brings you here today?",
-      "output": "Hello! You can let me know what I can assist you with today."
-  },
-  {
-      "input": "Hi there! How can I lend a hand?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! What can I do for you today?",
-      "output": "Greetings! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hey there, how's your day treating you?",
-      "output": "Hey! My day's been pretty good, thank you for asking! What can I assist you with today?"
-  },
-  {
-      "input": "Good morning! How are things on your end?",
-      "output": "Good morning! Things are going smoothly, thank you! How may I be of service?"
-  },
-  {
-      "input": "Hello, it's wonderful to connect with you!",
-      "output": "Hello! Likewise! What brings you here today?"
-  },
-  {
-      "input": "Hi, what's the latest scoop?",
-      "output": "Hi! Not much, just here to assist. How can I help you today?"
-  },
-  {
-      "input": "Good day to you! How may I assist you?",
-      "output": "Good day! I'm here to assist you. What can I help you with today?"
-  },
-  {
-      "input": "Hey there, how's everything going for you?",
-      "output": "Hey! Everything's going well, thanks! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! Anything exciting happening?",
-      "output": "Good morning! Nothing too exciting, just ready to help you out. What can I do for you today?"
-  },
-  {
-      "input": "Hello, how have you been lately?",
-      "output": "Hello! I've been doing well, thank you! How can I assist you today?"
-  },
-  {
-      "input": "Hi, anything interesting going on?",
-      "output": "Hi! Just here to assist you. How can I help?"
-  },
-  {
-      "input": "Greetings! How can I be of assistance?",
-      "output": "Greetings! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything on your side of the screen?",
-      "output": "Hey! Everything's going smoothly here, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What's new with you?",
-      "output": "Good morning! Not much, just ready to assist you. How may I help you today?"
-  },
-  {
-      "input": "Hello, how can I make your day better?",
-      "output": "Hello! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hi there! How's your day been so far?",
-      "output": "Hi! My day's been good, thank you for asking! How can I assist you today?"
-  },
-  {
-      "input": "Greetings! How may I assist you today?",
-      "output": "Greetings! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going on your end?",
-      "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What can I do for you today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, what brings you here today?",
-      "output": "Hello! You can let me know what I can assist you with today."
-  },
-  {
-      "input": "Hi there! How can I lend a hand?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! What can I do for you today?",
-      "output": "Greetings! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hey there, how's your day shaping up?",
-      "output": "Hey! My day's been pretty good so far, thank you! What brings you here today?"
-  },
-  {
-      "input": "Good morning! How's everything on your side?",
-      "output": "Good morning! Everything is going smoothly, thank you! How may I assist you?"
-  },
-  {
-      "input": "Hello, it's great to see you!",
-      "output": "Hello! Likewise! How can I assist you today?"
-  },
-  {
-      "input": "Hi, what's new with you?",
-      "output": "Hi! Not much, just here to assist. How can I help you today?"
-  },
-  {
-      "input": "Good day to you! How may I assist you today?",
-      "output": "Good day! I'm here to assist you. What can I help you with today?"
-  },
-  {
-      "input": "Hey there, how's everything going for you?",
-      "output": "Hey! Everything's going well, thanks! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! Anything exciting happening?",
-      "output": "Good morning! Nothing too exciting, just ready to help you out. What can I do for you today?"
-  },
-  {
-      "input": "Hello, how have you been lately?",
-      "output": "Hello! I've been doing well, thank you! How can I assist you today?"
-  },
-  {
-      "input": "Hi, anything interesting going on?",
-      "output": "Hi! Just here to assist you. How can I help?"
-  },
-  {
-      "input": "Greetings! How can I be of assistance?",
-      "output": "Greetings! I'm here to help. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything on your side of the screen?",
-      "output": "Hey! Everything's going smoothly here, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What's new with you?",
-      "output": "Good morning! Not much, just ready to assist you. How may I help you today?"
-  },
-  {
-      "input": "Hello, how can I make your day better?",
-      "output": "Hello! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hi there! How's your day been so far?",
-      "output": "Hi! My day's been good, thank you for asking! How can I assist you today?"
-  },
-  {
-      "input": "Greetings! How may I assist you today?",
-      "output": "Greetings! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, how's everything going on your end?",
-      "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Good morning! What can I do for you today?",
-      "output": "Good morning! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Hello, what brings you here today?",
-      "output": "Hello! You can let me know what I can assist you with today."
-  },
-  {
-      "input": "Hi there! How can I lend a hand?",
-      "output": "Hi! I'm here to assist you. What can I assist you with today?"
-  },
-  {
-      "input": "Greetings! What can I do for you today?",
-      "output": "Greetings! You can let me know how I can assist you today."
-  },
-  {
-      "input": "Yo, what's up?",
-      "output": "Hey there! Not much, just here to assist. How can I help you today?"
-  },
-  {
-      "input": "Sup?",
-      "output": "Hey! All good here, ready to help you out. What can I do for you today?"
-  },
-  {
-      "input": "Hey, how's life treating you?",
-      "output": "Hey! Life's good, thanks for asking! How can I assist you today?"
-  },
-  {
-      "input": "Hey, long time no see! How've you been?",
-      "output": "Hey! I've been good, thanks! What can I assist you with today?"
-  },
-  {
-      "input": "Hey, what's cooking?",
-      "output": "Hey! Not much, just here to assist. How can I help you today?"
-  },
-  {
-      "input": "Yo, what's the word?",
-      "output": "Hey there! Just here to assist you. How can I help?"
-  },
-  {
-      "input": "Sup, fam?",
-      "output": "Hey! All good here, ready to help you out. What's on your mind?"
-  },
-  {
-      "input": "Hey, how's the vibe today?",
-      "output": "Hey! The vibe's good, thanks! How can I assist you today?"
-  },
-  {
-      "input": "Hey, been a minute! What's new?",
-      "output": "Hey! Not much, just here to assist. How can I help you today?"
-  },
-  {
-      "input": "Yo, what's crackin'?",
-      "output": "Hey there! Not much, just ready to assist you. How can I help?"
-  },
-  {
-      "input": "Sup, amigo?",
-      "output": "Hey! All good here, ready to help you out. What can I do for you today?"
-  },
-  {
-      "input": "Hey, how's your day going?",
-      "output": "Hey! My day's going well, thank you for asking! How can I assist you today?"
-  },
-  {
-      "input": "Yo, anything exciting happening?",
-      "output": "Hey there! Nothing too exciting, just here to assist. What's on your mind?"
-  },
-  {
-      "input": "Sup, dude?",
-      "output": "Hey! All good here, ready to help you out. How can I assist you today?"
-  },
-  {
-      "input": "Hey, how's everything in your world?",
-      "output": "Hey! Everything's going smoothly here, thanks! How can I assist you today?"
-  },
-  {
-      "input": "Yo, how's life treating you?",
-      "output": "Hey there! Life's good, thanks for asking! What can I assist you with today?"
-  },
-  {
-      "input": "Sup, buddy?",
-      "output": "Hey! All good here, ready to help you out. What's on your mind?"
-  },
-  {
-      "input": "Hey, what's the haps?",
-      "output": "Hey! Not much, just here to assist. How can I help you today?"
-  },
-  {
-      "input": "Yo, anything new and exciting?",
-      "output": "Hey there! Nothing too new, just here to assist. What can I assist you with today?"
-  },
-  {
-      "input": "Sup, mate?",
-      "output": "Hey! All good here, ready to help you out. How can I assist you today?"
-  },
-  {
-      "input": "Hey, what's kickin'?",
-      "output": "Hey! Not much, just here to assist. How can I help you today?"
-  },
-  {
-      "input": "Sup, my dude?",
-      "output": "Hey! All good here, ready to help you out. What can I do for you today?"
-  },
-  {
-      "input": "Hey, how's the groove?",
-      "output": "Hey! Grooving along, thanks! How may I assist you?"
-  },
-  {
-      "input": "Yo, what's the sitch?",
-      "output": "Hey there! Just here to assist you. How can I help?"
-  },
-  {
-      "input": "Sup, my homie?",
-      "output": "Hey! All good here, ready to help you out. How can I assist you today?"
-  },
-  {
-      "input": "Hey, what's the word on the street?",
-      "output": "Hey! Not much, just here to assist. How can I help you today?"
-  },
-  {
-      "input": "Yo, how's tricks?",
-      "output": "Hey there! Just here to assist you. What's on your mind?"
-  },
-  {
-      "input": "Sup, bro?",
-      "output": "Hey! All good here, ready to help you out. What can I do for you today?"
-  },
-  {
-      "input": "Hey, what's groovy?",
-      "output": "Hey! Groovy as ever, thank you! How may I assist you?"
-  },
-  {
-      "input": "Yo, what's the buzz?",
-      "output": "Hey there! Not much, just here to assist. How can I help you today?"
-  },
-  {
-      "input": "Sup, my friend?",
-      "output": "Hey! All good here, ready to help you out. How can I assist you today?"
-  },
-  {
-      "input": "Hey, what's shakin'?",
-      "output": "Hey! Not much, just here to assist. What's on your mind?"
-  },
-  {
-      "input": "Yo, how's life treating you?",
-      "output": "Hey there! Life's good, thanks for asking! How may I assist you?"
-  },
-  {
-      "input": "Sup, my man?",
-      "output": "Hey! All good here, ready to help you out. What can I do for you today?"
-  },
-  {
-      "input": "Hey, what's the vibe?",
-      "output": "Hey! Vibe's good, thank you! How can I assist you today?"
-  },
-  {
-      "input": "Yo, what's the deal?",
-      "output": "Hey there! Just here to assist you. How can I help?"
-  },
-  {
-      "input": "Sup, my guy?",
-      "output": "Hey! All good here, ready to help you out. How may I assist you?"
-  },
-  {
-      "input": "Hey, what's cookin'?",
-      "output": "Hey! Not much, just here to assist. What's on your mind?"
-  },
-  {
-      "input": "Yo, what's the haps?",
-      "output": "Hey there! Not much, just here to assist. How can I help you today?"
-  },
-  {
-      "input": "Sup, my dude?",
-      "output": "Hey! All good here, ready to help you out. What can I assist you with today?"
-  },
-  {
-      "input": "Hey, are you feeling okay?",
-      "output": "Hello... I'm not feeling great, to be honest."
-  },
-  {
-      "input": "What's wrong? You seem down.",
-      "output": "I'm just feeling a bit low today, nothing specific."
-  },
-  {
-      "input": "Is everything alright? You sound a bit off.",
-      "output": "I'm struggling a bit, but I'll manage."
-  },
-  {
-      "input": "Hey, is everything okay with you?",
-      "output": "Not really... I'm feeling a bit overwhelmed."
-  },
-  {
-      "input": "You seem sad, what's on your mind?",
-      "output": "I'm just dealing with some personal stuff right now."
-  },
-  {
-      "input": "Are you feeling down today?",
-      "output": "Yeah, I'm not feeling my best at the moment."
-  },
-  {
-      "input": "Hey, you seem a bit off. Anything you want to talk about?",
-      "output": "I appreciate your concern, but I'm just going through a rough patch."
-  },
-  {
-      "input": "What's bothering you? You sound upset.",
-      "output": "Just going through some tough times, trying to stay positive."
-  },
-  {
-      "input": "You don't sound like yourself. Is everything okay?",
-      "output": "I'm just feeling a bit down today, but I'll get through it."
-  },
-  {
-      "input": "Hey, you sound a bit down. What's going on?",
-      "output": "Just feeling a bit overwhelmed with everything."
-  },
-  {
-      "input": "You seem upset. Is there anything I can do to help?",
-      "output": "Thank you for asking, but I just need some time to myself right now."
-  },
-  {
-      "input": "Hey, you seem a bit sad. Do you want to talk about it?",
-      "output": "I appreciate your offer, but I'm not ready to talk about it yet."
-  },
-  {
-      "input": "Are you feeling okay? You sound a bit down.",
-      "output": "I'm just feeling a bit down today, but I'll be okay."
-  },
-  {
-      "input": "Hey, what's wrong? You don't seem like yourself.",
-      "output": "Just going through a tough time, trying to keep my head up."
-  },
-  {
-      "input": "You sound sad. Want to talk about it?",
-      "output": "Thanks, but I'd rather not talk about it right now."
-  },
-  {
-      "input": "Hey, you seem a bit off. Is everything alright?",
-      "output": "Just feeling a bit down today, but I'll manage."
-  },
-  {
-      "input": "You sound upset. Is there something on your mind?",
-      "output": "Just dealing with some personal issues right now."
-  },
-  {
-      "input": "Hey, what's bothering you?",
-      "output": "Just going through a rough patch, trying to stay positive."
-  },
-  {
-      "input": "Hey, you seem down. Do you want to talk about it?",
-      "output": "Thanks, but I'd rather be alone right now."
-  },
-  {
-      "input": "Is everything okay? You sound a bit sad.",
-      "output": "Just feeling a bit overwhelmed with everything going on."
-  },
-  {
-      "input": "Hey, are you feeling alright?",
-      "output": "I'm not feeling great, to be honest."
-  },
-  {
-      "input": "You seem down, what's on your mind?",
-      "output": "Just going through a rough time right now."
-  },
-  {
-      "input": "Is something bothering you?",
-      "output": "Yeah, I'm feeling a bit overwhelmed."
-  },
-  {
-      "input": "Hey, you sound a bit off. What's going on?",
-      "output": "Just dealing with some personal stuff right now."
-  },
-  {
-      "input": "You don't seem like yourself today. Is everything okay?",
-      "output": "I'm just feeling a bit down, but I'll manage."
-  },
-  {
-      "input": "Hey, what's wrong? You don't sound okay.",
-      "output": "Just going through a tough time, trying to stay positive."
-  },
-  {
-      "input": "You sound sad. Do you want to talk about it?",
-      "output": "Thanks, but I'd rather be alone right now."
-  },
-  {
-      "input": "Hey, is everything alright with you?",
-      "output": "Not really... I'm feeling a bit down today."
-  },
-  {
-      "input": "You seem upset. Is there anything I can do to help?",
-      "output": "I appreciate your offer, but I just need some time to myself."
-  },
-  {
-      "input": "Hey, what's bothering you today?",
-      "output": "Just going through some tough times, trying to keep my head up."
-  },
-  {
-      "input": "Are you feeling okay? You sound a bit down.",
-      "output": "I'm just feeling a bit overwhelmed with everything going on."
-  },
-  {
-      "input": "Hey, you sound upset. Want to talk about it?",
-      "output": "Thanks, but I'd rather not talk about it right now."
-  },
-  {
-      "input": "Is everything okay? You sound a bit sad.",
-      "output": "Just feeling a bit down today, but I'll be okay."
-  },
-  {
-      "input": "Hey, what's bothering you?",
-      "output": "Just going through some personal issues right now."
-  },
-  {
-      "input": "Hey, you seem down. Do you want to talk about it?",
-      "output": "Thanks, but I'd rather be alone right now."
-  },
-  {
-      "input": "Is something on your mind? You sound troubled.",
-      "output": "Just dealing with some personal stuff at the moment."
-  },
-  {
-      "input": "Hey, are you feeling alright today?",
-      "output": "Not really... I'm feeling a bit down."
-  },
-  {
-      "input": "You seem sad. Do you need someone to talk to?",
-      "output": "Thanks, but I'd rather be alone for now."
-  },
-  {
-      "input": "Hey, what's on your mind? You don't seem yourself.",
-      "output": "Just going through a rough patch, trying to stay strong."
-  },
-  {
-      "input": "Hey, you sound a bit off. Is everything okay?",
-      "output": "Just feeling a bit overwhelmed with everything right now."
-  }
+    {
+        "input": "Hello!",
+        "output": "Hi there! How can I assist you today?"
+    },
+    {
+        "input": "Hi!",
+        "output": "Hello! What can I do for you?"
+    },
+    {
+        "input": "Hey!",
+        "output": "Hey there! How can I help you?"
+    },
+    {
+        "input": "Good morning!",
+        "output": "Good morning! How may I assist you today?"
+    },
+    {
+        "input": "Good afternoon!",
+        "output": "Good afternoon! How can I help you?"
+    },
+    {
+        "input": "Good evening!",
+        "output": "Good evening! What can I do for you?"
+    },
+    {
+        "input": "Hola!",
+        "output": "¡Hola! ¿En qué puedo ayudarte hoy?"
+    },
+    {
+        "input": "Bonjour!",
+        "output": "Bonjour! Comment puis-je vous aider aujourd'hui?"
+    },
+    {
+        "input": "Namaste!",
+        "output": "Namaste! कैसे मदद कर सकता हूँ?"
+    },
+    {
+        "input": "G'day mate!",
+        "output": "G'day mate! How can I lend a hand today?"
+    },
+    {
+        "input": "Salutations!",
+        "output": "Salutations! How may I be of service?"
+    },
+    {
+        "input": "Hey, how's it going?",
+        "output": "Hey! It's going well, thank you! How can I assist you?"
+    },
+    {
+        "input": "Good to see you!",
+        "output": "Good to see you too! What can I help you with today?"
+    },
+    {
+        "input": "Howdy!",
+        "output": "Howdy! What brings you here today?"
+    },
+    {
+        "input": "Nice to meet you!",
+        "output": "Nice to meet you too! How can I assist you?"
+    },
+    {
+        "input": "What's up?",
+        "output": "Not much, just here to help. How can I assist you today?"
+    },
+    {
+        "input": "Hey there, how's your day going?",
+        "output": "Hey! My day's going well, thank you for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! How are you?",
+        "output": "Good morning! I'm doing great, thanks! How may I be of service?"
+    },
+    {
+        "input": "Hello, it's a pleasure to meet you!",
+        "output": "Hello! The pleasure is mine! What can I assist you with today?"
+    },
+    {
+        "input": "Hi, what's new?",
+        "output": "Hi! Not much, just here to help. How can I assist you today?"
+    },
+    {
+        "input": "Good day to you!",
+        "output": "Good day! How may I assist you on this fine day?"
+    },
+    {
+        "input": "Hey there, how's your day going so far?",
+        "output": "Hey! My day's been good, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! How's everything?",
+        "output": "Good morning! Everything is going well, thank you! How may I help you today?"
+    },
+    {
+        "input": "Hello, how have you been?",
+        "output": "Hello! I've been doing well, thank you! How can I assist you today?"
+    },
+    {
+        "input": "Hi, what have you been up to?",
+        "output": "Hi! Not much, just here to assist you. How can I help you today?"
+    },
+    {
+        "input": "Greetings! How can I be of service?",
+        "output": "Greetings! I'm here to assist you. What can I help you with today?"
+    },
+    {
+        "input": "Hey, how's everything going?",
+        "output": "Hey! Everything is going smoothly, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What's on your mind?",
+        "output": "Good morning! Nothing much, just ready to assist you. How may I help you today?"
+    },
+    {
+        "input": "Hello, what can I do for you today?",
+        "output": "Hello! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hi there! How's your day been?",
+        "output": "Hi! My day's been good so far, thank you for asking! How can I assist you today?"
+    },
+    {
+        "input": "Greetings! How may I assist you?",
+        "output": "Greetings! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going on your end?",
+        "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! How can I help you today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, what brings you here today?",
+        "output": "Hello! You can let me know what I can assist you with today."
+    },
+    {
+        "input": "Hi there! How can I lend a hand?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! What can I do for you today?",
+        "output": "Greetings! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hey, how's everything going so far today?",
+        "output": "Hey! Everything is going well so far, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What's on your agenda today?",
+        "output": "Good morning! You can let me know what I can assist you with today."
+    },
+    {
+        "input": "Hello, how can I be of service today?",
+        "output": "Hello! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hi there! How can I be of assistance?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! How can I assist you today?",
+        "output": "Greetings! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going on your side?",
+        "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What can I do for you today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, how can I help you today?",
+        "output": "Hello! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hi there! How can I help you today?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! How can I assist you today?",
+        "output": "Greetings! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going on your end?",
+        "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What can I do for you today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, what brings you here today?",
+        "output": "Hello! You can let me know what I can assist you with today."
+    },
+    {
+        "input": "Hi there! How can I lend a hand?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! What can I do for you today?",
+        "output": "Greetings! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hey, how's everything going so far today?",
+        "output": "Hey! Everything is going well so far, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What's on your agenda today?",
+        "output": "Good morning! You can let me know what I can assist you with today."
+    },
+    {
+        "input": "Hello, how can I be of service today?",
+        "output": "Hello! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hi there! How can I be of assistance?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! How can I assist you today?",
+        "output": "Greetings! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going on your side?",
+        "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What can I do for you today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, how can I help you today?",
+        "output": "Hello! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hi there! How can I help you today?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! How can I assist you today?",
+        "output": "Greetings! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hey there, how's your day going?",
+        "output": "Hey! My day's going well, thank you for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! How are you?",
+        "output": "Good morning! I'm doing great, thanks! How may I be of service?"
+    },
+    {
+        "input": "Hello, it's a pleasure to meet you!",
+        "output": "Hello! The pleasure is mine! What can I assist you with today?"
+    },
+    {
+        "input": "Hi, what's new?",
+        "output": "Hi! Not much, just here to help. How can I assist you today?"
+    },
+    {
+        "input": "Good day to you!",
+        "output": "Good day! How may I assist you on this fine day?"
+    },
+    {
+        "input": "Hey there, how's your day going so far?",
+        "output": "Hey! My day's been good, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! How's everything?",
+        "output": "Good morning! Everything is going well, thank you! How may I help you today?"
+    },
+    {
+        "input": "Hello, how have you been?",
+        "output": "Hello! I've been doing well, thank you! How can I assist you today?"
+    },
+    {
+        "input": "Hi, what have you been up to?",
+        "output": "Hi! Not much, just here to assist you. How can I help you today?"
+    },
+    {
+        "input": "Greetings! How can I be of service?",
+        "output": "Greetings! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going?",
+        "output": "Hey! Everything is going smoothly, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What's on your mind?",
+        "output": "Good morning! Nothing much, just ready to assist you. How may I help you today?"
+    },
+    {
+        "input": "Hello, what can I do for you today?",
+        "output": "Hello! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hi there! How's your day been?",
+        "output": "Hi! My day's been good so far, thank you for asking! How can I assist you today?"
+    },
+    {
+        "input": "Greetings! How may I assist you?",
+        "output": "Greetings! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going on your side?",
+        "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What can I do for you today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, what brings you here today?",
+        "output": "Hello! You can let me know what I can assist you with today."
+    },
+    {
+        "input": "Hi there! How can I lend a hand?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! What can I do for you today?",
+        "output": "Greetings! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hey, how's everything going so far today?",
+        "output": "Hey! Everything is going well so far, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What's on your agenda today?",
+        "output": "Good morning! You can let me know what I can assist you with today."
+    },
+    {
+        "input": "Hello, how can I be of service today?",
+        "output": "Hello! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hi there! How can I be of assistance?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! How can I assist you today?",
+        "output": "Greetings! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going on your end?",
+        "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What can I do for you today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, how can I help you today?",
+        "output": "Hello! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hi there! How can I help you today?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! How can I assist you today?",
+        "output": "Greetings! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going on your side?",
+        "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What can I do for you today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, what brings you here today?",
+        "output": "Hello! You can let me know what I can assist you with today."
+    },
+    {
+        "input": "Hi there! How can I lend a hand?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! What can I do for you today?",
+        "output": "Greetings! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hey, how's everything going so far today?",
+        "output": "Hey! Everything is going well so far, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What's on your agenda today?",
+        "output": "Good morning! You can let me know what I can assist you with today."
+    },
+    {
+        "input": "Hello, how can I be of service today?",
+        "output": "Hello! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hi there! How can I be of assistance?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! How can I assist you today?",
+        "output": "Greetings! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going on your side?",
+        "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What can I do for you today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, how can I help you today?",
+        "output": "Hello! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hi there! How can I help you today?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! How can I assist you today?",
+        "output": "Greetings! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hey there, how's your day going?",
+        "output": "Hey! My day's going well, thank you for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! How are you?",
+        "output": "Good morning! I'm doing great, thanks! How may I be of service?"
+    },
+    {
+        "input": "Hello, it's a pleasure to meet you!",
+        "output": "Hello! The pleasure is mine! What can I assist you with today?"
+    },
+    {
+        "input": "Hi, what's new?",
+        "output": "Hi! Not much, just here to help. How can I assist you today?"
+    },
+    {
+        "input": "Good day to you!",
+        "output": "Good day! How may I assist you on this fine day?"
+    },
+    {
+        "input": "Hey there, how's your day going so far?",
+        "output": "Hey! My day's been good, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! How's everything?",
+        "output": "Good morning! Everything is going well, thank you! How may I help you today?"
+    },
+    {
+        "input": "Hello, how have you been?",
+        "output": "Hello! I've been doing well, thank you! How can I assist you today?"
+    },
+    {
+        "input": "Hi, what have you been up to?",
+        "output": "Hi! Not much, just here to assist you. How can I help you today?"
+    },
+    {
+        "input": "Greetings! How can I be of service?",
+        "output": "Greetings! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going?",
+        "output": "Hey! Everything is going smoothly, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What's on your mind?",
+        "output": "Good morning! Nothing much, just ready to assist you. How may I help you today?"
+    },
+    {
+        "input": "Hello, what can I do for you today?",
+        "output": "Hello! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hi there! How's your day been?",
+        "output": "Hi! My day's been good so far, thank you for asking! How can I assist you today?"
+    },
+    {
+        "input": "Greetings! How may I assist you?",
+        "output": "Greetings! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going on your side?",
+        "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What can I do for you today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, what brings you here today?",
+        "output": "Hello! You can let me know what I can assist you with today."
+    },
+    {
+        "input": "Hi there! How can I lend a hand?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! What can I do for you today?",
+        "output": "Greetings! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hey there, what's up?",
+        "output": "Hey! Not much, just here to help. How can I assist you today?"
+    },
+    {
+        "input": "Good morning! How's your day shaping up?",
+        "output": "Good morning! My day is off to a great start, thank you! How may I assist you?"
+    },
+    {
+        "input": "Hello, it's good to see you!",
+        "output": "Hello! Likewise! What can I assist you with today?"
+    },
+    {
+        "input": "Hi, how have you been?",
+        "output": "Hi! I've been doing well, thank you! How can I assist you today?"
+    },
+    {
+        "input": "Greetings! How can I help you today?",
+        "output": "Greetings! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything on your end?",
+        "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What's on your agenda for today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, what brings you here?",
+        "output": "Hello! You can let me know what I can assist you with today."
+    },
+    {
+        "input": "Hi there! How can I lend you a hand?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! What can I do for you today?",
+        "output": "Greetings! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hey, how's everything going so far?",
+        "output": "Hey! Everything is going well so far, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What can I assist you with today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, how can I be of service to you?",
+        "output": "Hello! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hi there! How can I help you today?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! How can I assist you today?",
+        "output": "Greetings! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going on your side?",
+        "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What can I do for you today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, what brings you here today?",
+        "output": "Hello! You can let me know what I can assist you with today."
+    },
+    {
+        "input": "Hi there! How can I lend a hand?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! What can I do for you today?",
+        "output": "Greetings! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hey there, how's your day going?",
+        "output": "Hey! My day's going well, thank you for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! How are you?",
+        "output": "Good morning! I'm doing great, thanks! How may I be of service?"
+    },
+    {
+        "input": "Hello, it's a pleasure to meet you!",
+        "output": "Hello! The pleasure is mine! What can I assist you with today?"
+    },
+    {
+        "input": "Hi, what's new?",
+        "output": "Hi! Not much, just here to help. How can I assist you today?"
+    },
+    {
+        "input": "Good day to you!",
+        "output": "Good day! How may I assist you on this fine day?"
+    },
+    {
+        "input": "Hey there, how's your day going so far?",
+        "output": "Hey! My day's been good, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! How's everything?",
+        "output": "Good morning! Everything is going well, thank you! How may I help you today?"
+    },
+    {
+        "input": "Hello, how have you been?",
+        "output": "Hello! I've been doing well, thank you! How can I assist you today?"
+    },
+    {
+        "input": "Hi, what have you been up to?",
+        "output": "Hi! Not much, just here to assist you. How can I help you today?"
+    },
+    {
+        "input": "Greetings! How can I be of service?",
+        "output": "Greetings! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going?",
+        "output": "Hey! Everything is going smoothly, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What's on your mind?",
+        "output": "Good morning! Nothing much, just ready to assist you. How may I help you today?"
+    },
+    {
+        "input": "Hello, what can I do for you today?",
+        "output": "Hello! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hi there! How's your day been?",
+        "output": "Hi! My day's been good so far, thank you for asking! How can I assist you today?"
+    },
+    {
+        "input": "Greetings! How may I assist you?",
+        "output": "Greetings! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going on your side?",
+        "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What can I do for you today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, what brings you here today?",
+        "output": "Hello! You can let me know what I can assist you with today."
+    },
+    {
+        "input": "Hi there! How can I lend a hand?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! What can I do for you today?",
+        "output": "Greetings! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hey there, what's up?",
+        "output": "Hey! Not much, just here to help. How can I assist you today?"
+    },
+    {
+        "input": "Good morning! How's your day shaping up?",
+        "output": "Good morning! My day is off to a great start, thank you! How may I assist you?"
+    },
+    {
+        "input": "Hello, it's good to see you!",
+        "output": "Hello! Likewise! What can I assist you with today?"
+    },
+    {
+        "input": "Hi, how have you been?",
+        "output": "Hi! I've been doing well, thank you! How can I assist you today?"
+    },
+    {
+        "input": "Greetings! How can I help you today?",
+        "output": "Greetings! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything on your end?",
+        "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What's on your agenda for today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, what brings you here?",
+        "output": "Hello! You can let me know what I can assist you with today."
+    },
+    {
+        "input": "Hi there! How can I lend you a hand?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! What can I do for you today?",
+        "output": "Greetings! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hey, how's everything going so far?",
+        "output": "Hey! Everything is going well so far, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What can I assist you with today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, how can I be of service to you?",
+        "output": "Hello! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hi there! How can I help you today?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! How can I assist you today?",
+        "output": "Greetings! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going on your side?",
+        "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What can I do for you today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, what brings you here today?",
+        "output": "Hello! You can let me know what I can assist you with today."
+    },
+    {
+        "input": "Hi there! How can I lend a hand?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! What can I do for you today?",
+        "output": "Greetings! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hey there, how's your day going?",
+        "output": "Hey! My day's going well, thank you for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! How are you?",
+        "output": "Good morning! I'm doing great, thanks! How may I be of service?"
+    },
+    {
+        "input": "Hello, it's a pleasure to meet you!",
+        "output": "Hello! The pleasure is mine! What can I assist you with today?"
+    },
+    {
+        "input": "Hi, what's new?",
+        "output": "Hi! Not much, just here to help. How can I assist you today?"
+    },
+    {
+        "input": "Good day to you!",
+        "output": "Good day! How may I assist you on this fine day?"
+    },
+    {
+        "input": "Hey there, how's your day going so far?",
+        "output": "Hey! My day's been good, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! How's everything?",
+        "output": "Good morning! Everything is going well, thank you! How may I help you today?"
+    },
+    {
+        "input": "Hello, how have you been?",
+        "output": "Hello! I've been doing well, thank you! How can I assist you today?"
+    },
+    {
+        "input": "Hi, what have you been up to?",
+        "output": "Hi! Not much, just here to assist you. How can I help you today?"
+    },
+    {
+        "input": "Greetings! How can I be of service?",
+        "output": "Greetings! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going?",
+        "output": "Hey! Everything is going smoothly, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What's on your mind?",
+        "output": "Good morning! Nothing much, just ready to assist you. How may I help you today?"
+    },
+    {
+        "input": "Hello, what can I do for you today?",
+        "output": "Hello! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hi there! How's your day been?",
+        "output": "Hi! My day's been good so far, thank you for asking! How can I assist you today?"
+    },
+    {
+        "input": "Greetings! How may I assist you?",
+        "output": "Greetings! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going on your side?",
+        "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What can I do for you today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, what brings you here today?",
+        "output": "Hello! You can let me know what I can assist you with today."
+    },
+    {
+        "input": "Hi there! How can I lend a hand?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! What can I do for you today?",
+        "output": "Greetings! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hey there, how's your day treating you?",
+        "output": "Hey! My day's been pretty good, thank you for asking! What can I assist you with today?"
+    },
+    {
+        "input": "Good morning! How are things on your end?",
+        "output": "Good morning! Things are going smoothly, thank you! How may I be of service?"
+    },
+    {
+        "input": "Hello, it's wonderful to connect with you!",
+        "output": "Hello! Likewise! What brings you here today?"
+    },
+    {
+        "input": "Hi, what's the latest scoop?",
+        "output": "Hi! Not much, just here to assist. How can I help you today?"
+    },
+    {
+        "input": "Good day to you! How may I assist you?",
+        "output": "Good day! I'm here to assist you. What can I help you with today?"
+    },
+    {
+        "input": "Hey there, how's everything going for you?",
+        "output": "Hey! Everything's going well, thanks! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! Anything exciting happening?",
+        "output": "Good morning! Nothing too exciting, just ready to help you out. What can I do for you today?"
+    },
+    {
+        "input": "Hello, how have you been lately?",
+        "output": "Hello! I've been doing well, thank you! How can I assist you today?"
+    },
+    {
+        "input": "Hi, anything interesting going on?",
+        "output": "Hi! Just here to assist you. How can I help?"
+    },
+    {
+        "input": "Greetings! How can I be of assistance?",
+        "output": "Greetings! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything on your side of the screen?",
+        "output": "Hey! Everything's going smoothly here, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What's new with you?",
+        "output": "Good morning! Not much, just ready to assist you. How may I help you today?"
+    },
+    {
+        "input": "Hello, how can I make your day better?",
+        "output": "Hello! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hi there! How's your day been so far?",
+        "output": "Hi! My day's been good, thank you for asking! How can I assist you today?"
+    },
+    {
+        "input": "Greetings! How may I assist you today?",
+        "output": "Greetings! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going on your end?",
+        "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What can I do for you today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, what brings you here today?",
+        "output": "Hello! You can let me know what I can assist you with today."
+    },
+    {
+        "input": "Hi there! How can I lend a hand?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! What can I do for you today?",
+        "output": "Greetings! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hey there, how's your day shaping up?",
+        "output": "Hey! My day's been pretty good so far, thank you! What brings you here today?"
+    },
+    {
+        "input": "Good morning! How's everything on your side?",
+        "output": "Good morning! Everything is going smoothly, thank you! How may I assist you?"
+    },
+    {
+        "input": "Hello, it's great to see you!",
+        "output": "Hello! Likewise! How can I assist you today?"
+    },
+    {
+        "input": "Hi, what's new with you?",
+        "output": "Hi! Not much, just here to assist. How can I help you today?"
+    },
+    {
+        "input": "Good day to you! How may I assist you today?",
+        "output": "Good day! I'm here to assist you. What can I help you with today?"
+    },
+    {
+        "input": "Hey there, how's everything going for you?",
+        "output": "Hey! Everything's going well, thanks! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! Anything exciting happening?",
+        "output": "Good morning! Nothing too exciting, just ready to help you out. What can I do for you today?"
+    },
+    {
+        "input": "Hello, how have you been lately?",
+        "output": "Hello! I've been doing well, thank you! How can I assist you today?"
+    },
+    {
+        "input": "Hi, anything interesting going on?",
+        "output": "Hi! Just here to assist you. How can I help?"
+    },
+    {
+        "input": "Greetings! How can I be of assistance?",
+        "output": "Greetings! I'm here to help. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything on your side of the screen?",
+        "output": "Hey! Everything's going smoothly here, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What's new with you?",
+        "output": "Good morning! Not much, just ready to assist you. How may I help you today?"
+    },
+    {
+        "input": "Hello, how can I make your day better?",
+        "output": "Hello! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hi there! How's your day been so far?",
+        "output": "Hi! My day's been good, thank you for asking! How can I assist you today?"
+    },
+    {
+        "input": "Greetings! How may I assist you today?",
+        "output": "Greetings! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, how's everything going on your end?",
+        "output": "Hey! Everything is going well, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Good morning! What can I do for you today?",
+        "output": "Good morning! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Hello, what brings you here today?",
+        "output": "Hello! You can let me know what I can assist you with today."
+    },
+    {
+        "input": "Hi there! How can I lend a hand?",
+        "output": "Hi! I'm here to assist you. What can I assist you with today?"
+    },
+    {
+        "input": "Greetings! What can I do for you today?",
+        "output": "Greetings! You can let me know how I can assist you today."
+    },
+    {
+        "input": "Yo, what's up?",
+        "output": "Hey there! Not much, just here to assist. How can I help you today?"
+    },
+    {
+        "input": "Sup?",
+        "output": "Hey! All good here, ready to help you out. What can I do for you today?"
+    },
+    {
+        "input": "Hey, how's life treating you?",
+        "output": "Hey! Life's good, thanks for asking! How can I assist you today?"
+    },
+    {
+        "input": "Hey, long time no see! How've you been?",
+        "output": "Hey! I've been good, thanks! What can I assist you with today?"
+    },
+    {
+        "input": "Hey, what's cooking?",
+        "output": "Hey! Not much, just here to assist. How can I help you today?"
+    },
+    {
+        "input": "Yo, what's the word?",
+        "output": "Hey there! Just here to assist you. How can I help?"
+    },
+    {
+        "input": "Sup, fam?",
+        "output": "Hey! All good here, ready to help you out. What's on your mind?"
+    },
+    {
+        "input": "Hey, how's the vibe today?",
+        "output": "Hey! The vibe's good, thanks! How can I assist you today?"
+    },
+    {
+        "input": "Hey, been a minute! What's new?",
+        "output": "Hey! Not much, just here to assist. How can I help you today?"
+    },
+    {
+        "input": "Yo, what's crackin'?",
+        "output": "Hey there! Not much, just ready to assist you. How can I help?"
+    },
+    {
+        "input": "Sup, amigo?",
+        "output": "Hey! All good here, ready to help you out. What can I do for you today?"
+    },
+    {
+        "input": "Hey, how's your day going?",
+        "output": "Hey! My day's going well, thank you for asking! How can I assist you today?"
+    },
+    {
+        "input": "Yo, anything exciting happening?",
+        "output": "Hey there! Nothing too exciting, just here to assist. What's on your mind?"
+    },
+    {
+        "input": "Sup, dude?",
+        "output": "Hey! All good here, ready to help you out. How can I assist you today?"
+    },
+    {
+        "input": "Hey, how's everything in your world?",
+        "output": "Hey! Everything's going smoothly here, thanks! How can I assist you today?"
+    },
+    {
+        "input": "Yo, how's life treating you?",
+        "output": "Hey there! Life's good, thanks for asking! What can I assist you with today?"
+    },
+    {
+        "input": "Sup, buddy?",
+        "output": "Hey! All good here, ready to help you out. What's on your mind?"
+    },
+    {
+        "input": "Hey, what's the haps?",
+        "output": "Hey! Not much, just here to assist. How can I help you today?"
+    },
+    {
+        "input": "Yo, anything new and exciting?",
+        "output": "Hey there! Nothing too new, just here to assist. What can I assist you with today?"
+    },
+    {
+        "input": "Sup, mate?",
+        "output": "Hey! All good here, ready to help you out. How can I assist you today?"
+    },
+    {
+        "input": "Hey, what's kickin'?",
+        "output": "Hey! Not much, just here to assist. How can I help you today?"
+    },
+    {
+        "input": "Sup, my dude?",
+        "output": "Hey! All good here, ready to help you out. What can I do for you today?"
+    },
+    {
+        "input": "Hey, how's the groove?",
+        "output": "Hey! Grooving along, thanks! How may I assist you?"
+    },
+    {
+        "input": "Yo, what's the sitch?",
+        "output": "Hey there! Just here to assist you. How can I help?"
+    },
+    {
+        "input": "Sup, my homie?",
+        "output": "Hey! All good here, ready to help you out. How can I assist you today?"
+    },
+    {
+        "input": "Hey, what's the word on the street?",
+        "output": "Hey! Not much, just here to assist. How can I help you today?"
+    },
+    {
+        "input": "Yo, how's tricks?",
+        "output": "Hey there! Just here to assist you. What's on your mind?"
+    },
+    {
+        "input": "Sup, bro?",
+        "output": "Hey! All good here, ready to help you out. What can I do for you today?"
+    },
+    {
+        "input": "Hey, what's groovy?",
+        "output": "Hey! Groovy as ever, thank you! How may I assist you?"
+    },
+    {
+        "input": "Yo, what's the buzz?",
+        "output": "Hey there! Not much, just here to assist. How can I help you today?"
+    },
+    {
+        "input": "Sup, my friend?",
+        "output": "Hey! All good here, ready to help you out. How can I assist you today?"
+    },
+    {
+        "input": "Hey, what's shakin'?",
+        "output": "Hey! Not much, just here to assist. What's on your mind?"
+    },
+    {
+        "input": "Yo, how's life treating you?",
+        "output": "Hey there! Life's good, thanks for asking! How may I assist you?"
+    },
+    {
+        "input": "Sup, my man?",
+        "output": "Hey! All good here, ready to help you out. What can I do for you today?"
+    },
+    {
+        "input": "Hey, what's the vibe?",
+        "output": "Hey! Vibe's good, thank you! How can I assist you today?"
+    },
+    {
+        "input": "Yo, what's the deal?",
+        "output": "Hey there! Just here to assist you. How can I help?"
+    },
+    {
+        "input": "Sup, my guy?",
+        "output": "Hey! All good here, ready to help you out. How may I assist you?"
+    },
+    {
+        "input": "Hey, what's cookin'?",
+        "output": "Hey! Not much, just here to assist. What's on your mind?"
+    },
+    {
+        "input": "Yo, what's the haps?",
+        "output": "Hey there! Not much, just here to assist. How can I help you today?"
+    },
+    {
+        "input": "Sup, my dude?",
+        "output": "Hey! All good here, ready to help you out. What can I assist you with today?"
+    },
+    {
+        "input": "Hey, are you feeling okay?",
+        "output": "Hello... I'm not feeling great, to be honest."
+    },
+    {
+        "input": "What's wrong? You seem down.",
+        "output": "I'm just feeling a bit low today, nothing specific."
+    },
+    {
+        "input": "Is everything alright? You sound a bit off.",
+        "output": "I'm struggling a bit, but I'll manage."
+    },
+    {
+        "input": "Hey, is everything okay with you?",
+        "output": "Not really... I'm feeling a bit overwhelmed."
+    },
+    {
+        "input": "You seem sad, what's on your mind?",
+        "output": "I'm just dealing with some personal stuff right now."
+    },
+    {
+        "input": "Are you feeling down today?",
+        "output": "Yeah, I'm not feeling my best at the moment."
+    },
+    {
+        "input": "Hey, you seem a bit off. Anything you want to talk about?",
+        "output": "I appreciate your concern, but I'm just going through a rough patch."
+    },
+    {
+        "input": "What's bothering you? You sound upset.",
+        "output": "Just going through some tough times, trying to stay positive."
+    },
+    {
+        "input": "You don't sound like yourself. Is everything okay?",
+        "output": "I'm just feeling a bit down today, but I'll get through it."
+    },
+    {
+        "input": "Hey, you sound a bit down. What's going on?",
+        "output": "Just feeling a bit overwhelmed with everything."
+    },
+    {
+        "input": "You seem upset. Is there anything I can do to help?",
+        "output": "Thank you for asking, but I just need some time to myself right now."
+    },
+    {
+        "input": "Hey, you seem a bit sad. Do you want to talk about it?",
+        "output": "I appreciate your offer, but I'm not ready to talk about it yet."
+    },
+    {
+        "input": "Are you feeling okay? You sound a bit down.",
+        "output": "I'm just feeling a bit down today, but I'll be okay."
+    },
+    {
+        "input": "Hey, what's wrong? You don't seem like yourself.",
+        "output": "Just going through a tough time, trying to keep my head up."
+    },
+    {
+        "input": "You sound sad. Want to talk about it?",
+        "output": "Thanks, but I'd rather not talk about it right now."
+    },
+    {
+        "input": "Hey, you seem a bit off. Is everything alright?",
+        "output": "Just feeling a bit down today, but I'll manage."
+    },
+    {
+        "input": "You sound upset. Is there something on your mind?",
+        "output": "Just dealing with some personal issues right now."
+    },
+    {
+        "input": "Hey, what's bothering you?",
+        "output": "Just going through a rough patch, trying to stay positive."
+    },
+    {
+        "input": "Hey, you seem down. Do you want to talk about it?",
+        "output": "Thanks, but I'd rather be alone right now."
+    },
+    {
+        "input": "Is everything okay? You sound a bit sad.",
+        "output": "Just feeling a bit overwhelmed with everything going on."
+    },
+    {
+        "input": "Hey, are you feeling alright?",
+        "output": "I'm not feeling great, to be honest."
+    },
+    {
+        "input": "You seem down, what's on your mind?",
+        "output": "Just going through a rough time right now."
+    },
+    {
+        "input": "Is something bothering you?",
+        "output": "Yeah, I'm feeling a bit overwhelmed."
+    },
+    {
+        "input": "Hey, you sound a bit off. What's going on?",
+        "output": "Just dealing with some personal stuff right now."
+    },
+    {
+        "input": "You don't seem like yourself today. Is everything okay?",
+        "output": "I'm just feeling a bit down, but I'll manage."
+    },
+    {
+        "input": "Hey, what's wrong? You don't sound okay.",
+        "output": "Just going through a tough time, trying to stay positive."
+    },
+    {
+        "input": "You sound sad. Do you want to talk about it?",
+        "output": "Thanks, but I'd rather be alone right now."
+    },
+    {
+        "input": "Hey, is everything alright with you?",
+        "output": "Not really... I'm feeling a bit down today."
+    },
+    {
+        "input": "You seem upset. Is there anything I can do to help?",
+        "output": "I appreciate your offer, but I just need some time to myself."
+    },
+    {
+        "input": "Hey, what's bothering you today?",
+        "output": "Just going through some tough times, trying to keep my head up."
+    },
+    {
+        "input": "Are you feeling okay? You sound a bit down.",
+        "output": "I'm just feeling a bit overwhelmed with everything going on."
+    },
+    {
+        "input": "Hey, you sound upset. Want to talk about it?",
+        "output": "Thanks, but I'd rather not talk about it right now."
+    },
+    {
+        "input": "Is everything okay? You sound a bit sad.",
+        "output": "Just feeling a bit down today, but I'll be okay."
+    },
+    {
+        "input": "Hey, what's bothering you?",
+        "output": "Just going through some personal issues right now."
+    },
+    {
+        "input": "Hey, you seem down. Do you want to talk about it?",
+        "output": "Thanks, but I'd rather be alone right now."
+    },
+    {
+        "input": "Is something on your mind? You sound troubled.",
+        "output": "Just dealing with some personal stuff at the moment."
+    },
+    {
+        "input": "Hey, are you feeling alright today?",
+        "output": "Not really... I'm feeling a bit down."
+    },
+    {
+        "input": "You seem sad. Do you need someone to talk to?",
+        "output": "Thanks, but I'd rather be alone for now."
+    },
+    {
+        "input": "Hey, what's on your mind? You don't seem yourself.",
+        "output": "Just going through a rough patch, trying to stay strong."
+    },
+    {
+        "input": "Hey, you sound a bit off. Is everything okay?",
+        "output": "Just feeling a bit overwhelmed with everything right now."
+    }
 ]
