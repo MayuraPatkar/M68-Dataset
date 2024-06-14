@@ -4,6 +4,14 @@
         "output": "I'm sorry, I couldn't understand your question. Could you please clarify or rephrase it?"
     },
     {
+        "input": "asrfdesfds esr 23w t re 3",
+        "output": "I'm sorry, I couldn't understand your question. Could you please clarify or rephrase it?"
+    },
+    {
+        "input": " w3rwg  5 cfswt 433e",
+        "output": "I'm sorry, I couldn't understand your question. Could you please clarify or rephrase it?"
+    },
+    {
         "input": "What is rong with mi comptr?",
         "output": "It seems like there might be a typo or error in your question. Can you please provide more details or clarify?"
     },
